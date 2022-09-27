@@ -1,5 +1,6 @@
 # SQL-Queries
-These are example of the SQL scripts I have written. 
+These are example of the SQL scripts I have written. I've been a data analyst for 3 years now, and I am just hearing about github. So, I have not saved all of my projects in the 3 years time frame. I am just starting to save a few scripts. 
+
 1)	Write a query to return the following fields where StudentID = 4183909.
 -	StudentID
 -	FirstName
